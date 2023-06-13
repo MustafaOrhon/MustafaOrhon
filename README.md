@@ -2,7 +2,7 @@
 <h3 align="center">I'm 3rd year Electronics and Electrical Engineering student at KTU.</h3>
 
 - 🌱 I’m interested in **embedded systems.**
-
+- 💻 I enjoy working on low-level programming projects and familiar with concepts such as FreeRTOS,CAN,I2C,SPI.
 - 👨‍💻 All of my projects are available at [https://github.com/MustafaOrhon](https://github.com/MustafaOrhon)
 
 - 📫 How to reach me **musorh@ktu.lt**
