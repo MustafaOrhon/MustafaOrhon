@@ -5,7 +5,7 @@
 - 💻 I enjoy working on low-level programming projects and familiar with concepts such as FreeRTOS,CAN,I2C,SPI.
 - 👨‍💻 All of my projects are available at [https://github.com/MustafaOrhon](https://github.com/MustafaOrhon)
 
-- 📫 How to reach me **mustafa311mustafa@gmail.comt**
+- 📫 How to reach me **mustafa311mustafa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
