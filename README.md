@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Mustafa ORHON</h1>
-<h3 align="center">I'm a Master's student in Electrical Engineering, specializing in Smart Systems, at the University of Stuttgart.</h3>
+<h3 align="center">I'm a Master's student in INFOTECH, specializing in Embedded Systems, at the University of Stuttgart.</h3>
 
 - 🌱 I’m interested in **embedded systems.**
 - 💻 I enjoy working on low-level programming projects and familiar with concepts such as FreeRTOS,CAN,I2C,SPI.
